@@ -7,15 +7,15 @@ Each digest highlights core ideas, protocol mechanics, and mental models to inte
 
 ---
 
-## 🔍 Purpose
+## Purpose
 
 RFCs are the DNA of the internet. But they’re also verbose, archaic, and hard to absorb. This repo translates key RFCs into:
 
-- ✅ Clean summaries
-- ✅ Visual explanations (where relevant)
-- ✅ Protocol workflows and message flows
-- ✅ Historical and practical context
-- ✅ Why-it-matters insights
+- Clean summaries
+- Visual explanations (where relevant)
+- Protocol workflows and message flows
+- Historical and practical context
+- Why-it-matters insights
 
 No copy-paste. No over-simplification. Just clarity.
 
@@ -32,23 +32,26 @@ Digests are in `/digests/RFC####.md`.
 
 ---
 
-## 🧠 Why This Exists
+## Why This Exists
 
 Because studying RFCs shouldn’t feel like deciphering ancient scrolls.  
 Because understanding protocols like TCP, IP, DNS, and HTTP at the spec level is a superpower.
 
 ---
 
-## 📦 Structure
+## Structure
 
+```text
 rfc-digests/
 ├── digests/
-│ ├── RFC0793.md
-│ ├── RFC1122.md
-│ └── ...
+│   ├── RFC0793.md
+│   ├── RFC1122.md
+│   └── ...
 ├── diagrams/
-│ └── handshake.png
-└── README.md
+│   └── handshake.png
+├── README.md
+└── LICENSE
+```
 
 ## Who It's For
 
@@ -59,7 +62,7 @@ rfc-digests/
 
 ---
 
-## 🛠 Contributing
+## Contributing
 
 Pull requests welcome. Especially:
 
@@ -69,7 +72,7 @@ Pull requests welcome. Especially:
 
 ---
 
-## 📡 Stay Tuned
+## Stay Tuned
 
 New digests coming every Thursday!  
 Follow the journey on [YouTube – 5AM Study](https://www.youtube.com/@fiveamstudy)
